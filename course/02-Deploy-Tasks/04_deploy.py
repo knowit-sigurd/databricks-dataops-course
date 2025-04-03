@@ -47,7 +47,10 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Job er selve tasken som skal kjøres
+# MAGIC Job run er en instans av denne tasken
+# MAGIC En Job kan ha mange instanser
+# MAGIC En job run er selvstendig
 
 # COMMAND ----------
 
@@ -60,4 +63,5 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Catalog -> Repo -> Branch -> YML name?
+# MAGIC
